@@ -8,9 +8,11 @@ This GUI Program will help your testing encrypt, decrypt or attack for your text
 
 이 프로그램에서 사용하는 암/복호화 코드는 Hacking Secret Ciphers with Python의 코드를 사용하고 있습니다.(http://inventwithpython.com/hacking)
 
-
+![Alt text](/screenshot.jpg "Optional Title")
 ##Usage:
-Run MainToolGUI.py with Python3
+1. MainToolGUI.py를 파이썬3로 실행
+2. 프로그램 모드 및 옵션을 선택 후 입력값들을 설정
+3. 암/복호화 및 공격 버튼 실행
 
 ###Links
 * pyDes(https://pypi.python.org/pypi/pyDes/)
