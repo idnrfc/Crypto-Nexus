@@ -9,3 +9,6 @@ This GUI Program will help your testing encrypt, decrypt or attack for your text
 
 Usage:
 Run MainToolGUI.py with Python3
+
+pyDes(https://pypi.python.org/pypi/pyDes/)
+pyOtp(https://github.com/pyotp/pyotp)
